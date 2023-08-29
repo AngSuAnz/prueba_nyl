@@ -1,0 +1,12 @@
+name: "prueba_nyl"
+title: "prueba_nyl"
+description: |
+  prueba_nyl
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
